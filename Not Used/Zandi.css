@@ -1,0 +1,17 @@
+#title{
+    color: rgba(255, 255, 255, 3);
+    background-color: #1a1a1a;
+    text-shadow: rgba(255, 255, 255, 5) 0 0 15px,
+    rgba(255, 255, 255, 5) 0 0 10px;
+}
+
+#background {
+    background: #CE5937;
+background: -moz-linear-gradient(left, #CE5937 0%, #1C6EA4 50%, #C59237 100%);
+background: -webkit-linear-gradient(left, #CE5937 0%, #1C6EA4 50%, #C59237 100%);
+background: linear-gradient(to right, #CE5937 0%, #1C6EA4 50%, #C59237 100%);
+}
+
+#border1 {
+border: 5px solid #1C6EA4;
+}
